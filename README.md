@@ -55,6 +55,7 @@ Con las ganancias obtenidas, Ferruccio empezó una vida opulenta, adquirió algu
     
 </ul>
     </div>
+    <body>
     <table>
   <tr>
     <td>Platano</td>
