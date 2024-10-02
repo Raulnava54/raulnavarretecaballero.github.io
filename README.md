@@ -52,8 +52,10 @@ Con las ganancias obtenidas, Ferruccio empezó una vida opulenta, adquirió algu
         <li>2014-2024 Lamborghini Huracán</li>
     </ol></li>
 </body>
-</html>
-<table>
+    
+</ul>
+    </div>
+    <table>
   <tr>
     <td>Platano</td>
     <td>Papaya</td>
@@ -73,12 +75,5 @@ Con las ganancias obtenidas, Ferruccio empezó una vida opulenta, adquirió algu
     <td>Ruffles</td>
   </tr>
 </table>
-<body>
-
-
-
-
-</ul>
-    </div>
 </body>
 </html>
