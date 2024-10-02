@@ -51,6 +51,29 @@ Con las ganancias obtenidas, Ferruccio empezó una vida opulenta, adquirió algu
         <li>2003-2013 Lamborghini Gallardo</li>
         <li>2014-2024 Lamborghini Huracán</li>
     </ol></li>
+</body>
+</html>
+<table>
+  <tr>
+    <td>Platano</td>
+    <td>Papaya</td>
+    <td>Sandia</td>
+    <td>Tamarindo</td>
+  </tr>
+  <tr>
+    <td>Zanahoria</td>
+    <td>Papa</td>
+    <td>Brocoli</td>
+    <td>COliflor</td>
+  </tr>
+  <tr>
+    <td>Cheetos</td>
+    <td>Doritos</td>
+    <td>Tostitos</td>
+    <td>Ruffles</td>
+  </tr>
+</table>
+<body>
 
 
 
